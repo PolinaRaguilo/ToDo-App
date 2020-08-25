@@ -1,13 +1,13 @@
 import React from 'react';
 
-import './itemStatusFilter.css';
+
 
 class ItemStatusFilter extends React.Component {
 
   buttons = [
-    {name:'all', label: 'All'},
-    {name:'active', label: 'Active'},
-    {name:'done', label: 'Done'}
+    {name:'all', label: 'Все'},
+    {name:'active', label: 'Активны'},
+    {name:'done', label: 'Завершены'}
   ];
 
   render(){

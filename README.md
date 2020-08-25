@@ -1,1 +1,2 @@
-ToDo App на ReactJS
+## ToDo App 
+Приложение написано на ReactJS с использованием синтаксиса ES6
